@@ -21,14 +21,14 @@ color: blue;
 }
 
 .someClass {
-    
+    width: 100%;
     background-color: gray;
     border: 5px solid black;
     border-radius: 25px;
 }
 
 .divClass1 {
-    
+    float: left; width: 32%;
     background-color: lightgray;
     border: 2px solid black;
     border-radius: 10px;
@@ -36,7 +36,7 @@ color: blue;
 }
 
 .divClass2 {
-    
+    float: left; width: 32%;
     background-color: lightgray;
     border: 2px solid black;
     border-radius: 10px;
@@ -44,7 +44,7 @@ color: blue;
 }
 
 .divClass3 {
-    
+    float: left; width: 32%;
     background-color: lightgray;
     border: 2px solid black;
     border-radius: 10px;
