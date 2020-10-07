@@ -1,0 +1,52 @@
+.aHeader {
+    color: #888888
+
+}
+
+#h1id {
+    color: lightgreen;
+    text-align: center;
+
+}
+
+.h3class {
+
+color: blue;
+
+}
+
+.pClass {
+    color: red;
+
+}
+
+.someClass {
+    
+    background-color: gray;
+    border: 5px solid black;
+    border-radius: 25px;
+}
+
+.divClass1 {
+    
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.divClass2 {
+    
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.divClass3 {
+    
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
